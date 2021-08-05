@@ -1,0 +1,13 @@
+C:\Users\Kevin D\Desktop\Dojo_Assignments\Java-or-CSharp\Wizard_Ninja_Samurai\bin\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.exe
+C:\Users\Kevin D\Desktop\Dojo_Assignments\Java-or-CSharp\Wizard_Ninja_Samurai\bin\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.deps.json
+C:\Users\Kevin D\Desktop\Dojo_Assignments\Java-or-CSharp\Wizard_Ninja_Samurai\bin\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.runtimeconfig.json
+C:\Users\Kevin D\Desktop\Dojo_Assignments\Java-or-CSharp\Wizard_Ninja_Samurai\bin\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.runtimeconfig.dev.json
+C:\Users\Kevin D\Desktop\Dojo_Assignments\Java-or-CSharp\Wizard_Ninja_Samurai\bin\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.dll
+C:\Users\Kevin D\Desktop\Dojo_Assignments\Java-or-CSharp\Wizard_Ninja_Samurai\bin\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.pdb
+C:\Users\Kevin D\Desktop\Dojo_Assignments\Java-or-CSharp\Wizard_Ninja_Samurai\obj\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.csprojAssemblyReference.cache
+C:\Users\Kevin D\Desktop\Dojo_Assignments\Java-or-CSharp\Wizard_Ninja_Samurai\obj\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.AssemblyInfoInputs.cache
+C:\Users\Kevin D\Desktop\Dojo_Assignments\Java-or-CSharp\Wizard_Ninja_Samurai\obj\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.AssemblyInfo.cs
+C:\Users\Kevin D\Desktop\Dojo_Assignments\Java-or-CSharp\Wizard_Ninja_Samurai\obj\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.csproj.CoreCompileInputs.cache
+C:\Users\Kevin D\Desktop\Dojo_Assignments\Java-or-CSharp\Wizard_Ninja_Samurai\obj\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.dll
+C:\Users\Kevin D\Desktop\Dojo_Assignments\Java-or-CSharp\Wizard_Ninja_Samurai\obj\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.pdb
+C:\Users\Kevin D\Desktop\Dojo_Assignments\Java-or-CSharp\Wizard_Ninja_Samurai\obj\Debug\netcoreapp3.1\Wizard_Ninja_Samurai.genruntimeconfig.cache
